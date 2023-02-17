@@ -1,14 +1,119 @@
+### 备注：本篇笔记所有音都是以kk音标作为标准，课程[链接](https://www.youtube.com/watch?v=U7Od39KfUzE&list=PLXkJ37RdDHGWTOmVOHnzx4824oev5hn3P&index=1)
+
 ### phonics
 - 音节syllable：含有一个响亮音素的声音片段叫做音节。音节=声音的节拍
 
 
 ### 规则
-- 元音字母 A E I O U在闭音节中一般读短元音。以元音字母加上一个或几个辅音字母结尾的音节叫闭音节。
+- 闭音节：元音字母加上一个或多个辅音字母结尾的音节。\
+    元音字母 A E I O U在闭音节中一般读短元音。
     
-    dog off log lost boss 例外，不读/ɑ/读 /ɔ/，son读/ʌ/
+    O /ɑ/，常见特殊音：dog off log lost boss 读 /ɔ/，son读 /ʌ/\
+    U /ʌ/，常见特殊音：put、bull、pull、full、good 读 /ʊ/
+- 开音节：元音字母结尾的音节。\
+    元音字母 A E I O U在开音节中读长元音。
+- 相对开音节：元音字母+辅音字母+词尾不发音的e结尾的音节，简称VCE\
+    元音：Vowel 辅音：consonant\
+    元音字母 A E I O U在相对开音节中读长元音。
 
 ### 标音拼读四步法：
 1. 找元音
 2. 分音节
 3. 标元音
 4. 读单词
+
+### 音节划分口诀
+- 一个辅音向后转
+- 两个辅音分两半\
+以上两条简称：一归后，二分手
+
+### L辅音组合
+- bl cl fl pl gl sl在划分音节时不能被划分开
+
+### R辅音组合
+- br cr dr fr gr pr tr，dr /dr/、tr /tr/ 
+
+### S辅音组合
+- sc sk sp st
+    - 辅音浊化 sc/sk -> sg、 sp -> sb、 st ->sd
+    - sc开头的单词c发/s/\
+    scene science scent
+- sm sn sw
+- 浊化s->z、 k->g、 p->b、t->d
+
+### th ch sh辅音组合```(12)```
+- th 
+    - /ð/ that this than then
+    - /θ/ thin thick bath math path
+- ch
+    - /tʃ/ chick chin chest chip chop chair child rich
+- sh
+    - /ʃ/ ash cash mash fish wish rush wash shell ship shop
+        - 特殊发音：wash bush push
+
+### 含有辅音字母t结尾发音```(13)```
+| ct  | ft  | pt  | xt  |
+|:---:|:---:|:---:|:---:|
+|act  | left| kept| next|
+|fact | gift| wept| text|
+|pact | lift|
+|tact | soft|
+|duct |
+
+### 受R控制的元音音节```(14)```
+- her、bird、hurt中的er、ir、ur都读/ɝ/
+- car /ɑr/
+- fork /ɔr/
+    | er /ɝ/| ir /ɝ/| ur /ɝ/| ar /ɑr/| /or /ɔr/|
+    |:---:|:---:|:---:|:---:|:---:|
+    |her  | bird| fur | car | fork|
+    |term |birth|turtle|arm|short|
+    |clerk|first|burst|far|north|
+    |tiger|shirt|turn|bar|force|
+    |paper|girl|purse|star|pork|
+    |over |circle|hurt|art|port|
+    |winter|skirt|purple|dark|forget|
+- 特殊发音
+    - ar和or出现在多音节词尾时的发音\
+    ar /ɚ/ dollar、standard\
+    or /ɚ/ doctor
+
+### 元音字母组合
+- ai ay eigh都发长元音A /e/```(15)```
+    ```
+    ai:   paid tail wait mail
+    ay:   day say play way stay
+    eigh: weigh eight weight
+    ```
+    特殊音： said height
+
+- ea ee ie都发长元音E /i/```(16)```
+如果两个元音字母在一起，通常前一个音发字母的长元音（本身音），后一个不发音。比如ea ee，ie属于特殊只能作为一个音素（整体）来发音
+    ```
+    ea: tea eat cream peach seat cheap read speak
+    ee: bee meet green beef see jeep deer sheep tree seed
+    ie: thief brief field pice
+    ```
+    特殊音：die lie pie tie
+
+---
+### 自总结
+helmet /'hɛlmɪt/中的met /mɛt/连着看似不符合自然拼读规则，但单独发则符合，连着可能受重音影响
+```
+black: ck /k/
+bridge: dge /dʒ/
+chair: air /ɛr/
+child、wild、mild: ild /ai/
+curious: cu=care 关心是词根 ious形容词后缀表...的 因为受了词根的影响。
+failure: fail【失败】 + -ure, 表名词 → 错误状态 → 失败
+```
+
+### 难发音标
+```
+/ɪ/、/æ/、/ʊ/
+/ð/
+```
+英式发音多听BBC 美式多听VOA 慢速英语
+
+### 疑问
+o 发啊还是噢

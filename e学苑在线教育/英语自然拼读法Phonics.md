@@ -60,7 +60,7 @@ O： /ɔ/ of/i:/除外\
 U： /ʌ/ 
 
 ### 第二阶段：Aa、Ee、Ii、Oo、Uu的长音
-#### 元音字母发长音（发字母本身音）简称CVCe
+### 元音字母发长音（发字母本身音）简称CVCe
 - 辅音字母（字母组合）+ 元音字母（一个）+ 辅音字母（一个） + e（结尾/不发音）\
 bike、drive、ape
     - A：wade、made、cake、bake、lake、rake、name、game、cane、mane、tape、cape、case、date、gate
