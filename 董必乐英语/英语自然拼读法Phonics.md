@@ -79,6 +79,7 @@
     or /ɚ/ doctor
 
 ### 元音字母组合
+如果两个元音字母在一起，通常前一个音发字母的长元音（本身音），后一个不发音。
 - ai ay eigh都发长元音A /e/```(15)```
     ```
     ai:   paid tail wait mail
@@ -87,14 +88,51 @@
     ```
     特殊音： said height
 
-- ea ee ie都发长元音E /i/```(16)```
-如果两个元音字母在一起，通常前一个音发字母的长元音（本身音），后一个不发音。比如ea ee，ie属于特殊只能作为一个音素（整体）来发音
+- ea ee ie发长元音E /i/```(16)```
     ```
     ea: tea eat cream peach seat cheap read speak
     ee: bee meet green beef see jeep deer sheep tree seed
     ie: thief brief field pice
     ```
     特殊音：die lie pie tie
+
+- y igh uy发长元音I /aɪ/```(17)```
+    ```
+    y:   by my cry dry fly shy
+    igh: fight light right high night
+    uy:  buy guy
+    ```
+- oa ow old ost发长元音O /əʊ/
+    ```
+    oa:  road coach load boat goat
+    ow:  bow low know blow show snow
+    old: old bold cold gold hold
+    ost: host most post
+    ```
+    特殊音：cost lost
+- oo 发 /ʊ/ /u/ /ʌ/ oor /ɔr/
+    - oo发/ʊ/
+        - 通常出现在以ook结尾的单词中\
+        book cook hook look took
+        - 通常出现在以ood结尾的单词中\
+        good hood stood understood wood\
+        特殊音：food mood
+    - oo发/u/
+        ```
+        food mood cool fool loop pool root school too tooth zoom
+        ```
+        如果一个单词以oo结尾发/u/\
+        ```
+        too bamboo igloo kangaroo shampoo
+        ```
+    - oo发/ʌ/
+        ```
+        blood flood
+        ```
+    - oor发/ɔr/
+        ```
+        door floor moor poor
+        ```
 
 ---
 ### 自总结
@@ -116,4 +154,4 @@ failure: fail【失败】 + -ure, 表名词 → 错误状态 → 失败
 英式发音多听BBC 美式多听VOA 慢速英语
 
 ### 疑问
-o 发啊还是噢
+/ɔ/ 发啊还是哦
