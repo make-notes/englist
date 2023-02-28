@@ -52,6 +52,7 @@
         - 特殊发音：wash bush push
 
 ### 含有辅音字母t结尾发音```(13)```
+
 | ct  | ft  | pt  | xt  |
 |:---:|:---:|:---:|:---:|
 |act  | left| kept| next|
