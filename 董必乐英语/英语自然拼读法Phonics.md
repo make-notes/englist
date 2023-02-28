@@ -64,6 +64,7 @@
 - her、bird、hurt中的er、ir、ur都读/ɝ/
 - car /ɑr/
 - fork /ɔr/
+
     | er /ɝ/| ir /ɝ/| ur /ɝ/| ar /ɑr/| /or /ɔr/|
     |:---:|:---:|:---:|:---:|:---:|
     |her  | bird| fur | car | fork|
