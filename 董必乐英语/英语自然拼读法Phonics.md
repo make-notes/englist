@@ -177,6 +177,19 @@ ue通常出现在词尾，ui出现在词中
         ```
         few new news pew view knew feud deuce
         ```
+- le 结尾的单词
+    ```
+    apple able cable table bubble bottle turtle single simple temple handle candle humdle 
+    ```
+- 元音字母弱读\
+元音字母a e i o u在单词中都可以弱读/ə/。重音符/`/
+    ```
+    banana /bə'nænə/        happen /'hæpən/
+    madam /'mædəm/          melon /'mɛlən/
+    tonight  /tə'naɪt/      success /sək'sɛs/
+    suppose /sə'poz/        circus  /'sɝkəs/
+    principal /'prɪnsəpl/
+    ``` 
 
 ---
 ### 自总结
