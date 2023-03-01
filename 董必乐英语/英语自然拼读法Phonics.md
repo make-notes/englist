@@ -92,7 +92,7 @@
     ```
     ea: tea eat cream peach seat cheap read speak
     ee: bee meet green beef see jeep deer sheep tree seed
-    ie: thief brief field pice
+    ie: thief brief field
     ```
     特殊音：die lie pie tie
 
@@ -102,7 +102,7 @@
     igh: fight light right high night
     uy:  buy guy
     ```
-- oa ow old ost发长元音O /əʊ/
+- oa ow old ost发长元音O /əʊ/```(18)```
     ```
     oa:  road coach load boat goat
     ow:  bow low know blow show snow
@@ -110,7 +110,7 @@
     ost: host most post
     ```
     特殊音：cost lost
-- oo 发 /ʊ/ /u/ /ʌ/ oor /ɔr/
+- oo 发 /ʊ/ /u/ /ʌ/ oor /ɔr/```(19)```
     - oo发/ʊ/
         - 通常出现在以ook结尾的单词中\
         book cook hook look took
@@ -121,7 +121,7 @@
         ```
         food mood cool fool loop pool root school too tooth zoom
         ```
-        如果一个单词以oo结尾发/u/\
+        如果一个单词以oo结尾发/u/
         ```
         too bamboo igloo kangaroo shampoo
         ```
@@ -132,6 +132,48 @@
     - oor发/ɔr/
         ```
         door floor moor poor
+        ```
+- ou ow发/aʊ/```(20)```
+    ```
+    ou: out our  mouth loud cloud proud mouse house south shout count
+    ow: cow bow now crowd down town brown
+    ```
+    特殊音
+    ```
+    you youth soup group coupon
+    /ʌ/:  touch yough tough enough
+    /ɔr/: four pour tour your fourth
+    ```
+    ow一般来说在字母l和r之后读O的音如 low row blow flow glow\
+    ow之后如果有字母n 或者l 读作 au 的音 如down town owl cowl fowl clown crown 
+
+- oi oy 发 /ɔɪ/```(21)```
+    - oi 通常出现在词中
+        ```
+        voice join soil coin boil point moist toilet noise choic??
+        ```
+    - oy 通常出现在词尾或出现在元音子母前
+        ```
+        boy toy joy enjoy employ destroy loyal
+        ```
+- ue ui发 /juː/或/uː/```(22)```\
+ue通常出现在词尾，ui出现在词中
+    - /uː/ ue ui前有l r j s 时发此音
+        ```
+        blue clue flue glue true cruel juice cruise suit fruit
+        ```
+    - /juː/ 其他发此音
+        ```
+        cue hue queue
+        ```
+- ew eu发/juː/或/uː/```(23)```
+    - /uː/ ew前有l r ch时发此音
+        ```
+        blew brew chew clew crew drew flew grew screw stew dew 
+        ```
+    - /juː/
+        ```
+        few new news pew view knew feud deuce
         ```
 
 ---
@@ -144,6 +186,8 @@ chair: air /ɛr/
 child、wild、mild: ild /ai/
 curious: cu=care 关心是词根 ious形容词后缀表...的 因为受了词根的影响。
 failure: fail【失败】 + -ure, 表名词 → 错误状态 → 失败
+vowel:  ow /aʊ/
+rough: gh /f/
 ```
 
 ### 难发音标
