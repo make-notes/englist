@@ -52,6 +52,7 @@
         - 特殊发音：wash bush push
 
 ### 含有辅音字母t结尾发音```(13)```
+
 | ct  | ft  | pt  | xt  |
 |:---:|:---:|:---:|:---:|
 |act  | left| kept| next|
@@ -64,6 +65,7 @@
 - her、bird、hurt中的er、ir、ur都读/ɝ/
 - car /ɑr/
 - fork /ɔr/
+
     | er /ɝ/| ir /ɝ/| ur /ɝ/| ar /ɑr/| /or /ɔr/|
     |:---:|:---:|:---:|:---:|:---:|
     |her  | bird| fur | car | fork|
