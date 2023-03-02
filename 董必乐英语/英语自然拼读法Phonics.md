@@ -177,11 +177,11 @@ ue通常出现在词尾，ui出现在词中
         ```
         few new news pew view knew feud deuce
         ```
-- le 结尾的单词
+- le 结尾的单词```(24)```
     ```
     apple able cable table bubble bottle turtle single simple temple handle candle humdle 
     ```
-- 元音字母弱读\
+- 元音字母弱读```(25)```\
 元音字母a e i o u在单词中都可以弱读/ə/。重音符/`/
     ```
     banana /bə'nænə/        happen /'hæpən/
@@ -190,6 +190,22 @@ ue通常出现在词尾，ui出现在词中
     suppose /sə'poz/        circus  /'sɝkəs/
     principal /'prɪnsəpl/
     ``` 
+- 常见的单词后缀读音
+    - dis 前缀“不” + like 喜欢，dislike不喜欢
+    - ion 后缀，表示“名词性质”。select（动词）selection（名词）\
+    /ʃən/ tion ssion
+        ```
+        tion: 
+            nation station ration motion notion action fraction traction
+        ssion: 
+            compassion discussion profession fission mission admission session
+        sion:
+            前面是辅音字母读/ʃən/
+            conversion mansion tension version
+            前面是元音字母读/ʒən/
+            confusion division decision vision television inclusion
+        ```
+
 
 ---
 ### 自总结
