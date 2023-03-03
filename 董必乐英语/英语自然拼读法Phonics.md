@@ -190,7 +190,7 @@ ue通常出现在词尾，ui出现在词中
     suppose /sə'poz/        circus  /'sɝkəs/
     principal /'prɪnsəpl/
     ``` 
-- 常见的单词后缀读音
+- 常见的单词后缀读音```(26)```
     - dis 前缀“不” + like 喜欢，dislike不喜欢
     - ion 后缀，表示“名词性质”。select（动词）selection（名词）\
     /ʃən/ tion ssion
@@ -205,6 +205,12 @@ ue通常出现在词尾，ui出现在词中
             前面是元音字母读/ʒən/
             confusion division decision vision television inclusion
         ```
+- 常见后缀拼读法```(27)```
+    - err 表示"从事于...的人" enginerr volunteer
+    - er "从事某种职业的人；某地方的人"player worker banker observer Londoner villager
+    - or doctor operator
+    - ment "行为、状态" treatment movement Judgment argument
+    - ness "性质、状态" goodness kindness tiredness
 
 
 ---
