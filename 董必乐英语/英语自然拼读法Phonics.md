@@ -212,6 +212,23 @@ ue通常出现在词尾，ui出现在词中
     - ment "行为、状态" treatment movement Judgment argument
     - ness "性质、状态" goodness kindness tiredness
 
+- 常见前缀拼读法```(28)```
+    - dis- "不""无"用于动词或名词前构成反意
+        ```
+        disagree dishonest disappear disorder dislike
+        ```
+    - mis- "坏的""错的"，"不好的"意思
+        ```
+        mistake misspell misfortune misunderstand
+        ```
+    - trans- "转变""变换"
+        ```
+        transport transplant translation transform
+        ```
+    - re- "回来""再次""重新"
+        ```
+        return retell review repeat report rebuild
+        ```
 
 ---
 ### 自总结
@@ -220,12 +237,17 @@ helmet /'hɛlmɪt/中的met /mɛt/连着看似不符合自然拼读规则，但�
 black: ck /k/
 bridge: dge /dʒ/
 chair: air /ɛr/
-child、wild、mild: ild /ai/
+child、wild、mild: ild /aild/
 curious: cu=care 关心是词根 ious形容词后缀表...的 因为受了词根的影响。
 failure: fail【失败】 + -ure, 表名词 → 错误状态 → 失败
 vowel:  ow /aʊ/
 rough: gh /f/
+当字母g后面接的是辅音字母时/g/, eg: glad
+当字母g后接元音e, i, y时为/dʒ/, eg: ginger, gym, gentleman
 ```
+
+### 其他
+- 前缀改变词义，后缀改变词性
 
 ### 难发音标
 ```
@@ -236,3 +258,9 @@ rough: gh /f/
 
 ### 疑问
 /ɔ/ 发啊还是哦
+
+disagree  /ˌdɪsə'ɡri/自然拼读法和音标发音似乎不一致
+
+---
+build  /bɪld/
+child  /tʃaɪld/
