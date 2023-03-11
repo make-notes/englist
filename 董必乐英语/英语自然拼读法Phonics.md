@@ -229,6 +229,23 @@ ue通常出现在词尾，ui出现在词中
         ```
         return retell review repeat report rebuild
         ```
+- 辅音组合中不发音的字母```(29)```
+    - kn /n/ kn一般出现在词前只发n
+        ```
+        knee knife knack knock know
+        ```
+    - mb /m/
+        ```
+        lamb thumb bomb climb comb tomb
+        ```
+    - wr /r/
+        ```
+            write writer wrist wrap wrong
+        ```
+    - st /s/ 在词中t不发音
+        ```
+            castle listen listener wrestle
+        ```
 
 ---
 ### 自总结
@@ -244,6 +261,7 @@ vowel:  ow /aʊ/
 rough: gh /f/
 当字母g后面接的是辅音字母时/g/, eg: glad
 当字母g后接元音e, i, y时为/dʒ/, eg: ginger, gym, gentleman
+ledge dge /dʒ/
 ```
 
 ### 其他
