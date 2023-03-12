@@ -240,13 +240,29 @@ ue通常出现在词尾，ui出现在词中
         ```
     - wr /r/
         ```
-            write writer wrist wrap wrong
+        write writer wrist wrap wrong
         ```
     - st /s/ 在词中t不发音
         ```
-            castle listen listener wrestle
+        castle listen listener wrestle
         ```
-
+- 辅音字母组合ph gh
+    - ph /f/
+        ```
+        c photo phonics phase photograph telegraph telephone
+        ```
+    - gh /f/
+        ```
+        rough tough cough laugh
+        ```
+    - y 在单词中发/ɪ/的情况
+        ```
+        gym myth system lyric physic mystery syllable typical
+        ```
+    - h silent h不发音的h
+        ```
+        hour honor honest ghost
+        ```
 ---
 ### 自总结
 helmet /'hɛlmɪt/中的met /mɛt/连着看似不符合自然拼读规则，但单独发则符合，连着可能受重音影响
