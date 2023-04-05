@@ -28,10 +28,10 @@
 以上两条简称：一归后，二分手
 
 ### L辅音组合
-- bl cl fl pl gl sl在划分音节时不能被划分开
+- bl pl fl gl cl sl在划分音节时不能被划分开
 
 ### R辅音组合
-- br cr dr fr gr pr tr，dr /dr/、tr /tr/ 
+- br pr dr tr fr gr cr，dr /dr/、tr /tr/ 
 
 ### S辅音组合
 - sc sk sp st
@@ -263,6 +263,16 @@ ue通常出现在词尾，ui出现在词中
         ```
         hour honor honest ghost
         ```
+---
+自然拼读巧记单词
+- ate
+    ```
+    date日期 fate命运 gate大门 late迟的 mate同事 plate盘子 state国家
+    ```
+- sh
+    ```
+    ash 灰烬 bash 猛击 cash现金 dash 破折号
+    ```
 ---
 ### 自总结
 helmet /'hɛlmɪt/中的met /mɛt/连着看似不符合自然拼读规则，但单独发则符合，连着可能受重音影响
