@@ -4,11 +4,13 @@
 
 <table>
   <theader>
-    <td></td>
-    <td>音标</td>
-    <td>音标大师</td>
-    <td>趣味拟音</td>
-    <td>页码</td>
+     <tr align="center">
+      <td></td>
+      <td>音标</td>
+      <td>音标大师</td>
+      <td>趣味拟音</td>
+      <td>页码</td>
+     </tr>
   </theader>
   <tbody align="center">
     <tr>
@@ -273,3 +275,35 @@
     </tr>
   </tbody>
 </table>
+
+### 自然拼读一级表
+
+
+| 字母 | 读音 | 单词中的发音 | 例子 | 备注 |
+| :-----: | :----: | :----: | :----:| :----: |
+| A | /eɪ/ | /æ/ | dad|
+| B | /bi:/ | /b/ | bee |
+| C | /si:/ | /k/、/s/ | cat |后接e、i、y发s|
+| D | /di:/ | /d/ | dog |
+| E | /i:/ | kk:/ɛ/ dj:/e/ | egg |
+| F | /ɛf/ | /f/ | fox |
+| G | /dʒiː/ | /g/ | go |
+| H | /etʃ/ | /h/ | he |
+| I | /aɪ/ | /ɪ/ | it |
+| J | /dʒe/ | /dʒ/ | job |
+| K | /ke/ | /k/ | kite |
+| L | /ɛl/ | /l/ | look |
+| M | /ɛm/ | /m/ | map |
+| N | /ɛn/ | /n/ | not |
+| O | /əʊ/ | kk:/ɑ/ dj:/ɒ/ | box |
+| P | /pi:/ | /p/ | pig |
+| Q | /kjuː/ | /kw/ | quiet |
+| R | /ɑ:/ | /r/ | rose |
+| S | /ɛs/ | /s/ | say |
+| T | /ti:/ | /t/ | to |
+| U | /juː/ | /ʌ/ | bus |
+| V | /vi:/ | /v/ | five |
+| W | /'dʌb(ə)ljuː/ | /w/ | we |
+| X | /ɛks/ | /ks/ | six |
+| Y | /wai/ | /j/、/ai/ | yes |在单词结尾并且单词中没有元音则发/ai/ |
+| Z | /zi:/ | /z/| zoo |
