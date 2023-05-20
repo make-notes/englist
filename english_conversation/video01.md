@@ -5,35 +5,35 @@
 ## <span id="1.1">UNIT 1. Where do you come from?</span>
 ### 课文：
 M: Hello.\
-```W: Hello.```\
+<font color=red>W: Hello.</font>\
 M: How are you?\
-```W: I'm find thank you. And you?```\
+<font color=red>W: I'm find thank you. And you?</font>\
 M: I'm find. Thank you. Where are you from?\
-```W: I come form England.```\
+<font color=red>W: I come form England.</font>\
 M: You come from England? Do you like Manchester United?\
-```W: Mm. I don't like football.```\
+<font color=red>W: Mm. I don't like football.</font>\
 M: Oh, You don't like football. I see. Why did you come here?\
-```W: I came for vacation.```\
+<font color=red>W: I came for vacation.</font>\
 M: You came for vacation. Are you having fun?\
-```W: Yes. I'm having a great time.```\
+<font color=red>W: Yes. I'm having a great time.</font>\
 M: What do you like the best about here?\
-```W: What do i like the best? Well, the people are very kind.```\
+<font color=red>W: What do i like the best? Well, the people are very kind.</font>\
 M: Yes. The people here are kind. Do you like the food?\
-```W: Yes. The food is great.```\
+<font color=red>W: Yes. The food is great.</font>\
 M: Is the food too spicy for you?\
-```W: No, I love spicy food. I can eat spicy food everyday.```\
+<font color=red>W: No, I love spicy food. I can eat spicy food everyday.</font>\
 M: How much longer will you stay here?\
-```W: I will stay 2 more days.```\
+<font color=red>W: I will stay 2 more days.</font>\
 M: Oh. Then you will go home?\
-```W: Yes. Then i will go home.```\
+<font color=red>W: Yes. Then i will go home.</font>\
 M: Where do you work?\
-```W: I work for a big company.```\
+<font color=red>W: I work for a big company.</font>\
 M: What kind of company do you work for?\
-```W: I work for an import company. And what about you?```\
+<font color=red>W: I work for an import company. And what about you?</font>\
 M: I work at that bank.\
-```W: Are you a bank teller?```\
+<font color=red>W: Are you a bank teller?</font>\
 W: No. I'm the owner.\
-```M: Oh.```
+<font color=red>W: Oh.</font>
 
 ### 生词：
 
