@@ -1,6 +1,7 @@
 # [Video1](https://www.youtube.com/watch?v=m1-Bx3h4cio&list=PLzVm1SmjPKc_OnC56MbILOmdXvGV_3kE9&index=44)
 1. [UNIT 1. Where do you come from?](#1.1)
 2. [UNIT 2. How was your Vacation?](#1.2)
+
 ## <span id="1.1">UNIT 1. Where do you come from?</span>
 ### 课文：
 M: Hello.\
@@ -37,10 +38,10 @@ W: No. I'm the owner.\
 ### 生词：
 |单词|音标|意思|
 |:---:|:---:|:---:|
-|Manchester United|英/ˈmæntʃestə(r) juˈnaɪtɪd/<br />美/ˈmæntʃestər juˈnaɪtɪd/|曼联;联队;曼彻斯特联队;曼联俱乐部;曼切斯特联队|
-|vacation|英/veɪˈkeɪʃn/<br />美/veɪˈkeɪʃn/|度假
-|spicy|英/ˈspaɪsi/<br />美/ˈspaɪsi/|辛辣的;刺激的|
-|teller|英/ˈtelə(r)/<br />美/ˈtelər/|出纳|
+|Manchester United|英/ˈmæntʃestə(r) juˈnaɪtɪd/ 美/ˈmæntʃestər juˈnaɪtɪd/|曼联;联队;曼彻斯特联队;曼联俱乐部;曼切斯特联队|
+|vacation|英/veɪˈkeɪʃn/ 美/veɪˈkeɪʃn/|度假
+|spicy|英/ˈspaɪsi/ 美/ˈspaɪsi/|辛辣的;刺激的|
+|teller|英/ˈtelə(r)/ 美/ˈtelər/|出纳|
 |owner|英/ˈəʊnə(r)/<br/>美/ˈoʊnər/|所有者|
 
 ## <span id="1.2">UNIT 2. How was your Vacation?</span>
